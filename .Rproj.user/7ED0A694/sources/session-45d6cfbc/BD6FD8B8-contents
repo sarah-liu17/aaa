@@ -8,4 +8,8 @@ library(tidyverse)
 library(ggplot2)
 ```
 
+<<<<<<< HEAD
 more important information about qmd.
+=======
+some important information about qmd.
+>>>>>>> testbranch
